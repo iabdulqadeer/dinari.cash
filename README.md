@@ -1,2 +1,1 @@
-# dinari.cash
-dinar cash web application
+# dinar.cash

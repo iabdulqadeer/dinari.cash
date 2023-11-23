@@ -1,0 +1,1 @@
+<?php if (!defined('DB_NAME')) header('Location: admin.php'); ?>
